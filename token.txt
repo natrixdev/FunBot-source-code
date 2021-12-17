@@ -1,0 +1,2 @@
+alerting(funbot):TOKEN("TOKEN GOES HERE") 
+.userNoAlert
