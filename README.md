@@ -1,4 +1,4 @@
 # FunBot-source-code
 Here is the fun bot source code 
-# Just rrun the .bat file to start the bot
+# Just rrrun the .bat file to start the bot
 And paste your token 
